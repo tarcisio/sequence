@@ -1,6 +1,7 @@
 Sequence
 ==========
 https://news.ycombinator.com/item?id=24433682
+idempotency key !!!
 
 ![Sequence CI](https://github.com/decimals/sequence/workflows/Clojure%20CI/badge.svg)
 
